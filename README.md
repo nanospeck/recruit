@@ -63,5 +63,6 @@ GET http://localhost:8080/recruit-service/v1/applications/count
 
 # Future Enhancements
 
-*Test coverage: Add 100% test coverage to the code for the ease of maintenance and code quality. This is skipped now due to time constrains.
-*Add service later between the controller and repo to handle all business logic
+* Test coverage: Add 100% test coverage to the code for the ease of maintenance and code quality. This is skipped now due to time constrains.
+
+* Add service later between the controller and repo to handle all business logic
