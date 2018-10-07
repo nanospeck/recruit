@@ -1,13 +1,13 @@
 
 
-#Starting the application
+# Starting the application
 
 1. Checkout the code and go to the root folder
 2. **mvn spring-boot:run**
 3. Open the Swagger UI at : **http://localhost:8080/swagger-ui.html#/**
 4. Try out the queries right from the browser using sample data from swagger
 
-#Connection to H2 Database
+# Connection to H2 Database
 
 1. Go to url http://localhost:8080/h2-console/login.jsp
 2. Change the JDBC URL to : jdbc:h2:mem:testdb
